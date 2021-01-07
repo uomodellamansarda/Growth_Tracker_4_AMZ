@@ -17,7 +17,8 @@ The code is made to compare:
 *   Setted how time still remains to become an expert based on 10.000 rule
 *   2021 Projection with Quarters Forcast and their confidence level
 
-The main plots are attached to this readme, more information are inside the colab, feel free to use as it is. 
+The main plots are attached to this readme, more information are inside the colab, feel free to use as it is.
+
 If you liked this repo I will be happy to get in touch with you on LinkedIn.
 
 ![Since First Rejection](https://github.com/uomodellamansarda/Growth_Tracker_4_AMZ/blob/main/since_first_rejection.png?raw=true)
